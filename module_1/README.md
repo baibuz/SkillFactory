@@ -1,6 +1,7 @@
 # Task 
-Analyse IMDB movies data set to answer 27 questions of a trivia. Trivia question were provided by SkillFactory 
-Analysis is in 
+Analyse IMDB movies data set to answer 27 questions of a trivia. Trivia question were provided by SkillFactory.
+
+Analysis is in Movies_IMBD.ipynb notebook. Notebook is organised by questions of the trivia.
 # "Who wants to be a millionaire" game score
 27/27
 # Self-reflection on the task 
